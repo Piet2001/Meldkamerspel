@@ -10,3 +10,6 @@ Meldkamerspel.com Discord:
 
 LSS-Manager Discord:
 [https://discord.gg/RcTNjpB](https://discord.gg/RcTNjpB)
+
+LSSM Github:
+[https://github.com/LSS-Manager/lss-manager-v3](https://github.com/LSS-Manager/lss-manager-v3)
