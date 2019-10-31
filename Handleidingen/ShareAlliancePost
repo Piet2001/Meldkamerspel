@@ -12,3 +12,7 @@ Handleiding LSSM Alarmeren,delen & posten
    Via de link kun je kijken welke code je nodig hebt voor een knop. Deze staat standaard op 17, 89. 
    Wanneer je deze bijv. zal veranderen naar 80 wordt de sneltoets de letter P)
 9. Wacht tot het volledige script is voltooid. (Je ziet onder in de rode balk een groen knopje met de status van de verwerking)
+
+LET OP:
+
+Wanneer je een letter als sneltoets invoert word de module ook geactiveerd als je de letter intoetst om bijv. een voertuig te zoeken.
