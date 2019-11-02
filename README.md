@@ -9,3 +9,9 @@ Update-meldingen van deze documentatie komen in de volgende discord server:
 
 Meldkamerspel.com Discord:
 [https://discord.gg/nzn8xGz](https://discord.gg/nzn8xGz)
+
+Toevoeging voor deze documenten?
+Stuur ze via:
+- Een bericht aan Piet2001 via Discord of het spel
+- Een Issue hier in Github
+- Schrijf hem zelf en geef hem door als Pull request.
