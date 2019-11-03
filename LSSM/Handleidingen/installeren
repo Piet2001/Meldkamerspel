@@ -4,6 +4,7 @@ Beschikbaar voor Chrome, Firefox, Safari, Opera Next & Edge.
 
 1. Installeer Tampermonkey. http://tampermonkey.net/
 2. Installeer het user-script. https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js
+3. Als de module niet direct zichtbaar is. Ververs dan de pagina even.
 
 Na de installatie kun je verschillende modules inschakelen. 
 Onder de module staat al een beknopte info over de functie. 
