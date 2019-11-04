@@ -9,3 +9,9 @@ Hiervoor doorloop je de volgende stappen.
 5. Verwijder de gegevens van niet werkende module.
    Neem voor het verwijderen altijd contact op met het team, zodat je zeker de juiste module verwijderd.
    Ook hebben mensen van het LSSM-team meer verstand van alle dingen.
+
+
+Kort in het engels:
+
+press F12 
+go to application --> local storage --> missionchief --> and delete the module file
