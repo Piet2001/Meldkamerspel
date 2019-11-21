@@ -46,7 +46,6 @@ VOS 6 Vliegtuig neergestort:
 - 2x Hoofdofficier van dienst
 - 2x Commandowagen of haakarmbak
 - 12x Noodhulp
-
 - Ambulances n.a.v. aantal patiënten 
 - MMT 
 
