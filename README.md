@@ -12,6 +12,6 @@ Meldkamerspel.com Discord:
 
 Toevoeging voor deze documenten?
 Stuur ze via:
-- Een bericht aan Piet2001 via Discord of het spel
-- Een Issue hier in Github
+- Een bericht aan Piet2001 via Discord of het spel.
+- Een Issue hier in Github.
 - Schrijf hem zelf en geef hem door als Pull request.
