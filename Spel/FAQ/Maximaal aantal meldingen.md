@@ -15,4 +15,4 @@ Voor de geplande inzetten is er standaard een max van 2 meldingen.<br/>
 <br/>
 Voor de besteld vervoer meldingen geld:<br/>
 Aantal zorgambulances is gelijk aan het max aantal besteld vervoer meldingen.<br/>
-Behalve wanneer je meer dan 10 zorgambulances heb. Dan geld een max van 10 meldingen<br/>
+Behalve wanneer je meer dan 10 zorgambulances heb. Dan geld een max van 10 meldingen.<br/>
