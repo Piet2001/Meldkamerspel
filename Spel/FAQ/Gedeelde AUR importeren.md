@@ -7,6 +7,6 @@ Als je de regels van andere spelers wil importeren volg je de volgende stappen.
 5. Gefeliciteerd je hebt nu de regels van een andere speler.
 <br/>
 Let op:<br/><Br/>
-- Wanneer een speler de regel wijzigt wordt deze automatisch overgenomen in de link
-- Als je de regels al had overgenomen worden de wijzigingen niet doorgevoerd.
-- Als je een nieuwe regel maakt wordt deze niet onder de link gezet en zou je dus een nieuwe link moeten genereren.
+- Wanneer een speler de regel wijzigt wordt deze automatisch overgenomen in de link.<br/>
+- Als je de regels al had overgenomen worden de wijzigingen niet doorgevoerd.<br/>
+- Als je een nieuwe regel maakt wordt deze niet onder de link gezet en zou je dus een nieuwe link moeten genereren.<br/>
