@@ -9,4 +9,4 @@ Hiervoor ga je naar je voertuig. Klikt op "Personeel toewijzen" en wijst het per
 aan het voertuig. <br/>
 Vanaf het moment dat je personeelslid op de post aan komt en dus de status beschikbaar 
 krijgt, zal deze alleen nog maar mee gaan met het voertuig waaraan deze gekoppeld is. <br/>
-De fout melding zou voor dit voertuig dus niet meer voor moeten vallen.
+De fout melding zou voor dit voertuig dus niet meer voor moeten vallen.<br/>
