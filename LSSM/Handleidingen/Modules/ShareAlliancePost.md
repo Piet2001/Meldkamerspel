@@ -1,5 +1,5 @@
-Handleiding LSSM Alarmeren,delen & posten
-
+Handleiding LSSM Alarmeren,delen & posten<br/>
+<br/>
 1. activeer de module in de store
 2. Ga naar de instellingen en stel bij de invoer regels een bericht samen. (de basis berichten staan in het duits.)
 3. Zet de vinkjes in de checkboxen van welke dingen je wil gebruiken.
@@ -12,7 +12,7 @@ Handleiding LSSM Alarmeren,delen & posten
    Via de link kun je kijken welke code je nodig hebt voor een knop. Deze staat standaard op 17, 89. 
    Wanneer je deze bijv. zal veranderen naar 80 wordt de sneltoets de letter P)
 9. Wacht tot het volledige script is voltooid. (Je ziet onder in de rode balk een groen knopje met de status van de verwerking)
-
-LET OP:
-
+<br/>
+LET OP:<br/>
+<br/>
 Wanneer je een letter als sneltoets invoert word de module ook geactiveerd als je de letter intoetst om bijv. een voertuig te zoeken.
