@@ -26,7 +26,6 @@ Kettingbotsing:
 - 1x Hoofdofficier van dienst brandweer
 - 8x Noodhulp
 - 1x Commandowagen of haakarmbak
-
 - Ambulances n.a.v. aantal patiënten 
 <br/>
 Natuurbrand:
