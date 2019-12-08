@@ -6,8 +6,7 @@ Hierbij tellen de volgende categorieën.<br/>
 - Politie<br/>
 - Ambulance (incl. uitbreidingen op brandweer kazernes.)<br/>
 <br/>
-Om dit zelf te berekenen kun je deze link gebruiken:<br/>
-http://meldkamerspel.000webhostapp.com/bereken_meldingen.html
+Om dit zelf te berekenen kun je [hier](https://meldkamerspel.000webhostapp.com/bereken_meldingen.html)<br/> klikken<br/>
 <br/>
 <br/>
 Voor de geplande inzetten is er standaard een max van 2 meldingen.<br/>
