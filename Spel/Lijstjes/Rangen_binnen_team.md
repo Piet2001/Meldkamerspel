@@ -6,7 +6,7 @@ Binnen een team heb je verschillende rangen, met aanhangende mogelijkheden:
     - Rangen uitdelen aan spelers.
     - Gebouwen bouwen.
     - Regels aanpassen.
-    - Toezichtscherm bekijken. Hierin komen meldingen van [acties.](Meldkamerspel/blob/master/acties_in_toezichtscherm.md)
+    - Toezichtscherm bekijken. Hierin komen meldingen van [acties.](/acties_in_toezichtscherm.md)
     - Voertuigen met spraakaanvraag van offline spelers weg sturen.
     - Kortingen voor teamleden beheren
     - Opleidingen starten in de team scholen
@@ -16,7 +16,7 @@ Binnen een team heb je verschillende rangen, met aanhangende mogelijkheden:
 - Spraakaanvraag admin:
     - Voertuigen met spraakaanvraag van offline spelers weg sturen.
 - Toezichthouder:
-    - Toezichtscherm bekijken. Hierin komen meldingen van [acties.](Meldkamerspel/blob/master/acties_in_toezichtscherm.md) 
+    - Toezichtscherm bekijken. Hierin komen meldingen van [acties.](/acties_in_toezichtscherm.md) 
 - Penningmeester:
     - Gebouwen kopen voor het team van de team kas.
     - Kortingen voor teamleden beheren.
