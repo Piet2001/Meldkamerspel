@@ -7,4 +7,4 @@ Om er acter te kunnen komen wat je nodig hebt voor een melding kun je op verschi
 <br/>
 Links:
 
-[Mogelijke-inzetten](https://www.meldkamerspel.com/einsaetze
+[Mogelijke-inzetten](https://www.meldkamerspel.com/einsaetze)
