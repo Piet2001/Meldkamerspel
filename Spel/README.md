@@ -48,7 +48,7 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Verschillende [opleidingen.](Lijstjes/Algemeen/Opleidingen.md)
         - Betekenissen van de [statussen.](Lijstjes/Algemeen/Status_betekenissen.md)
         - Op welk tabblad zijn de voertuigen te vinden in de [voertuigenmarkt.](Lijstjes/Algemeen/Voertuigen_per_tabblad.md)
-        - Voorwaarden voor het verplaastsen van [personeel.](Lijstjes/Algemeen/Voorwaarden_personeel_verplaastsen.md)
+        - Voorwaarden voor het verplaastsen van [personeel.](Lijstjes/Algemeen/Voorwaarden_personeel_verplaatsen.md)
     - Team
         - Acties die zichtbaar zijn in het [toezichtscherm.](Lijstjes/Team/Acties_in_toezichtscherm.md)
         - Benodigdheden [Teaminzetten.](Lijstjes/Team/Benodigdheden_Teaminzetten.md)
