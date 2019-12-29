@@ -1,6 +1,6 @@
 In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder zie je een overzicht met links van alle documentaties die er zijn, zodat je makkelijk kan zoeken als je iets nodig hebt. Deze lijst zal ook bij nieuwe updates worden aangepast.<br/>
 
-- Tips Om te beginnen met het [spel](beginners-tips.md)
+- Tips Om te beginnen met het [spel](Beginners-tips.md)
 
 - FAQ
     - Algemeen:
