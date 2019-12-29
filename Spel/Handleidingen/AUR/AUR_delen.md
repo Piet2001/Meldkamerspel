@@ -5,3 +5,5 @@ Als je een mooie verzameling hebt die een ander ook graag wil hebben kun je deze
 3. Selecteer de regels die je wil delen met andere spelers.
 4. Klik weer op exporteren.
 5. Het spel maakt een link en die kan je dan doorsturen naar andere spelers.
+<br/><br/>
+Videolink: https://youtu.be/P_vyRn0lVPE

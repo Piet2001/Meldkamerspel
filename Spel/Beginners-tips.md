@@ -1,7 +1,7 @@
 Om snel te kunnen groeien in het spel zijn er enkele manieren waarop je dit kan bereiken.<br/>
 Hieronder zie je een aantal tips om snel te kunnen beginnen en ook snel te kunnen groeien.<br/>
 
-- Lees de WIKI door op https://blog.meldkamerspel.com
+- Lees de WIKI door op de [blog](https://blog.meldkamerspel.com)
 - Begin met brandweer. De brandweer meldingen leveren namelijk het meeste op.
 - Bouw de kazernes bij elkaar in de buurt, zodat je beter bereik hebt met de voertuigen die je dadelijk nodig gaat hebben. Bijv stad voor stad.
 - Bouw vooruit. Kijk goed naar welke voertuigen je nodig hebt vanaf je volgende post en koop alvast de voertuigen die je vanaf post 3 nodig hebt

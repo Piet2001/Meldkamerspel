@@ -4,42 +4,52 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
 
 - FAQ
     - Algemeen:
-        - Hoe kan ik hulp [krijgen.](FAQ/Hoe_kan_ik_hulp_krijgen.md)
-        - Wat te doen wanneer je een fout hebt [gevonden.](FAQ/Fout_gevonden.md)
-        - Hoe bereken ik het maximale aantal [meldingen.](FAQ/Maximaal_aantal_meldingen.md)
-        - Wat is er voor een melding [nodig.](FAQ/Wat_heb_ik_nodig_voor_de_melding.md)
-        - Wat is een [POI.](FAQ/Wat_is_een_POI.md)
+        - Hoe kan ik hulp [krijgen.](FAQ/Algemeen/Hoe_kan_ik_hulp_krijgen.md)
+        - Wat te doen wanneer je een fout hebt [gevonden.](FAQ/Algemeen/Fout_gevonden.md)
+        - Hoe bereken ik het maximale aantal [meldingen.](FAQ/Algemeen/Maximaal_aantal_meldingen.md)
+        - Wat is er voor een melding [nodig.](FAQ/Algemeen/Wat_heb_ik_nodig_voor_de_melding.md)
+        - Wat is een [POI.](FAQ/Algemeen/Wat_is_een_POI.md)
     - Problemen:
-        - Mijn spel doet het niet [goed.](FAQ/Mijn_spel_doet_het_niet_goed.md)
-        - Mogelijk melding voor geen personeel [onterecht.](FAQ/Foutmelding_geen_personeel_onterecht.md)
-        - Krijg geen melding voor [ME.](FAQ/Krijg_geen_meldingen_voor_ME.md)
-        - Vensters staan buiten de [kaart.](FAQ/Venster_buiten_kaart.md)
+        - Mijn spel doet het niet [goed.](FAQ/Problemen/Mijn_spel_doet_het_niet_goed.md)
+        - Mogelijk melding voor geen personeel [onterecht.](FAQ/Problemen/Foutmelding_geen_personeel_onterecht.md)
+        - Krijg geen melding voor [ME.](FAQ/Problemen/Krijg_geen_meldingen_voor_ME.md)
+        - Vensters staan buiten de [kaart.](FAQ/Problemen/Venster_buiten_kaart.md)
 
 - Handleidingen
-    - Aanmaken [AUR.](Handleidingen/Aanmaken_AUR.md)
-    - Account [aanmaken.](Handleidingen/Account_aanmaken.md)
-    - Adventskalender [openen.](Handleidingen/Adventskalender_openen.md)
-    - Voertuigen [Alarmeren.](Handleidingen/Alarmeren.md)
-    - AUR [delen.](Handleidingen/AUR_delen.md)
-    - Voertuigen dooralarmeren naar volgende [meldin.g](Handleidingen/Dooralarmeren.md)
-    - Gebouw [bouwen.](Handleidingen/Gebouw_bouwen.md)
-    - Gebouw verwijderen met geld [terug.](Handleidingen/Gebouw_verwijderen_met_geld_terug.md)
-    - Gedeelde AUR importeren naar je eigen [game.](Handleidingen/Gedeelde_AUR_importeren.md)
-    - Op de site [inloggen.](Handleidingen/Inloggen.md)
-    - Personeel [werven.](Handleidingen/Personeel_werven.md)
-    - Ophalen beloning rang [omhoog.](Handleidingen/Rang_beloning_ophalen.md)
-    - Het aantal parkeerplaatsen [ophogen.](Handleidingen/Uitbreiden_parkeerplaatsen.md)
-    - Voertuigen [kopen.](Handleidingen/Voertuig_kopen.md)
-    - Voertuig retour post [sturen.](Handleidingen/Voertuig_retour_post.md)
-
+    - Algemeen:
+        - Account [aanmaken.](Handleidingen/Algemeen/Account_aanmaken.md)
+        - Op de site [inloggen.](Handleidingen/Algemeen/Inloggen.md)
+        - Adventskalender [openen.](Handleidingen/Algemeen/Adventskalender_openen.md)
+        - Ophalen beloning rang [omhoog.](Handleidingen/Algemeen/Rang_beloning_ophalen.md)
+    - AUR:
+        - Aanmaken [AUR.](Handleidingen/AUR/Aanmaken_AUR.md)
+        - AUR [delen.](Handleidingen/AUR/AUR_delen.md)
+        - Gedeelde AUR importeren naar je eigen [game.](Handleidingen/AUR/Gedeelde_AUR_importeren.md)
+        - Een gemaakte AUR [bewerken.](Handleidingen/AUR/AUR_bewerken.md)
+        - Een specifieke AUR [verwijderen.](Handleidingen/AUR/AUR_verwijderen.md)
+        - Alle AUR [verwijderen.](Handleidingen/AUR/Alle_AUR_verwijderen.md)
+    - Meldingen:
+        - Voertuigen [Alarmeren.](Handleidingen/Meldingen/Alarmeren.md)
+        - Voertuigen dooralarmeren naar volgende [melding.](Handleidingen/Meldingen/Dooralarmeren.md)
+        - Voertuig retour post [sturen.](Handleidingen/Meldingen/Voertuig_retour_post.md)
+        - Voertuigen alarmeren met behulp van [AUR](Handleidingen/Meldingen/Alarmeren_met_AUR.md)
+    - Gebouwen:
+        - Gebouw [bouwen.](Handleidingen/Gebouwen/Gebouw_bouwen.md)
+        - Gebouw verwijderen met geld [terug.](Handleidingen/Gebouwen/Gebouw_verwijderen_met_geld_terug.md)
+        - Personeel [werven.](Handleidingen/Gebouwen/Personeel_werven.md)
+        - Het aantal parkeerplaatsen [ophogen.](Handleidingen/Gebouwen/Uitbreiden_parkeerplaatsen.md)       
+    - Voertuigen:
+        - Voertuigen [kopen.](Handleidingen/Voertuigen/Voertuig_kopen.md)
+        - Voertuigen [hernoemen.](Handleidingen/Voertuigen/Voertuig_hernoemen.md)
+    
 - Lijstjes
     - Algemeen
-        - Award [doelstellingen.](Lijstjes/Award_doelstellingen.md)
-        - Verschillende [opleidingen.](Lijstjes/Opleidingen.md)
-        - Betekenissen van de [statussen.](Lijstjes/Status_betekenissen.md)
-        - Op welk tabblad zijn de voertuigen te vinden in de [voertuigenmarkt.](Lijstjes/Voertuigen_per_tabblad.md)
-        - Voorwaarden voor het verplaastsen van [personeel.](Voorwaarden_personeel_verplaastsen.md)
+        - Award [doelstellingen.](Lijstjes/Algemeen/Award_doelstellingen.md)
+        - Verschillende [opleidingen.](Lijstjes/Algemeen/Opleidingen.md)
+        - Betekenissen van de [statussen.](Lijstjes/Algemeen/Status_betekenissen.md)
+        - Op welk tabblad zijn de voertuigen te vinden in de [voertuigenmarkt.](Lijstjes/Algemeen/Voertuigen_per_tabblad.md)
+        - Voorwaarden voor het verplaastsen van [personeel.](Lijstjes/Algemeen/Voorwaarden_personeel_verplaastsen.md)
     - Team
-        - Acties die zichtbaar zijn in het [toezichtscherm.](Lijstjes/Acties_in_toezichtscherm.md)
-        - Benodigdheden [Teaminzetten.](Lijstjes/Benodigdheden_Teaminzetten.md)
-        - Verschillende rangen binnen het [team.](Lijstjes/Rangen_binnen_team.md)
+        - Acties die zichtbaar zijn in het [toezichtscherm.](Lijstjes/Team/Acties_in_toezichtscherm.md)
+        - Benodigdheden [Teaminzetten.](Lijstjes/Team/Benodigdheden_Teaminzetten.md)
+        - Verschillende rangen binnen het [team.](Lijstjes/Team/Rangen_binnen_team.md)
