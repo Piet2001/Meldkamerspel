@@ -5,7 +5,7 @@ Hierbij tellen de volgende categorieën.<br/>
 - Brandweer<br/>
 - Politie<br/>
 - Ambulance (incl. uitbreidingen op brandweer kazernes.)<br/>
-<br/>
+
 Om dit zelf te berekenen kun je [hier](https://meldkamerspel.000webhostapp.com/bereken_meldingen.html) klikken<br/>
 <br/>
 <br/>
