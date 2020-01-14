@@ -14,3 +14,8 @@ Stuur ze via:
 - Een bericht aan Piet2001 via Discord of het spel.
 - Een Issue hier in Github.
 - Schrijf hem zelf en geef hem door als Pull request.
+
+Versie: 1.3.5
+DATE: 14-01-2020
+
+Aan deze documentatie zijn geen rechten verbonden. [LICENCE](LICENCE)
