@@ -5,5 +5,6 @@ Datum|Versie|wijzigingen
 12-01-2020|1.1.1|LICENCE toegevoegd
 14-01-2020|1.1.2|Versie en LICENCE koppelen aan README
 15-01-2020|1.1.3|Kleine bug fix
-26-01-2020|1.1.4|Handleidingen: eigen-inzetbereik, inzetsnelheid, design. FAQ: Waarvoor eigen-inzetbereik, Geen B-ritten
-26-01-2020|1.1.5| Changelog fix
+26-01-2020|1.1.4|Handleidingen: eigen-inzetbereik, inzetsnelheid, design; FAQ: Waarvoor eigen-inzetbereik, Geen B-ritten
+26-01-2020|1.1.5|Changelog fix
+26-01-2020|1.1.6|Handleidingen: Afbeeldingsverzameling openbaarmaken/aanmaken/gebruiken/verwijderen; Lijstjes: Update teaminzetten/rangen van team.
