@@ -1,5 +1,5 @@
 Datum|Versie|wijzigingen
--------|-------|-------
+-----------|-------|------------
 01-01-2020|1.0.0|Eerste versie opgebouwd in 2019
 04-01-2020|1.1.0|Fix max aantal meldingen
 12-01-2020|1.1.1|LICENCE toegevoegd
