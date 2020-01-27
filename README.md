@@ -14,7 +14,7 @@ Stuur ze via:
 - Een Issue hier in Github.
 - Schrijf hem zelf en geef hem door als Pull request.
 
-Version: 1.1.7 <br/>
+Version: 1.1.8 <br/>
 DATE: 27-01-2020
 
 Aan deze documentatie zijn geen rechten verbonden. [LICENCE](LICENCE)
