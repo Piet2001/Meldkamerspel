@@ -18,3 +18,5 @@ Version: 1.1.7 <br/>
 DATE: 27-01-2020
 
 Aan deze documentatie zijn geen rechten verbonden. [LICENCE](LICENCE)
+
+NOTE: Eerste officiële uitgave was op 01-01-2020.

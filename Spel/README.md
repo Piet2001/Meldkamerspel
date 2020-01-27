@@ -9,18 +9,30 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Hoe bereken ik het maximale aantal [meldingen.](FAQ/Algemeen/Maximaal_aantal_meldingen.md)
         - Wat is er voor een melding [nodig.](FAQ/Algemeen/Wat_heb_ik_nodig_voor_de_melding.md)
         - Wat is een [POI.](FAQ/Algemeen/Wat_is_een_POI.md)
+        - Waarvoor is een eigen [inzetbereik.](FAQ/Algemeen/Waarvoor_is_eigen_inzetbereik.md)      
     - Problemen:
         - Mijn spel doet het niet [goed.](FAQ/Problemen/Mijn_spel_doet_het_niet_goed.md)
         - Mogelijk melding voor geen personeel [onterecht.](FAQ/Problemen/Foutmelding_geen_personeel_onterecht.md)
         - Krijg geen melding voor [ME.](FAQ/Problemen/Krijg_geen_meldingen_voor_ME.md)
         - Vensters staan buiten de [kaart.](FAQ/Problemen/Venster_buiten_kaart.md)
+        - Ik krijg geen besteld vervoer [meldingen.](FAQ/Problemen/Geen_besteld_vervoer.md)
 
 - Handleidingen
+    - Afbeeldingen:
+        - Verzameling [aanmaken.](Handleidingen/Afbeeldingen/Verzameling_aanmaken.md)
+        - Eigen verzameling openbaar [maken.](Handleidingen/Afbeeldingen/Openbaar_maken.md)
+        - Verzameling [gebruiken.](Handleidingen/Afbeeldigen/Verzameling_gebruiken.md)
+        - Eigen verzameling [verwijderen.](Handleidingen/Afbeeldingen/Verzameling_verwijderen.md)        
     - Algemeen:
         - Account [aanmaken.](Handleidingen/Algemeen/Account_aanmaken.md)
         - Op de site [inloggen.](Handleidingen/Algemeen/Inloggen.md)
         - Adventskalender [openen.](Handleidingen/Algemeen/Adventskalender_openen.md)
         - Ophalen beloning rang [omhoog.](Handleidingen/Algemeen/Rang_beloning_ophalen.md)
+        - POI [aanmaken.](Handleidingen/Algemeen/POI_plaatsen.md)
+        - POI [verwijderen.](Handleidingen/Algemeen/POI_verwijderen.md)
+        - Mogelijke inzetten [bekijken.](Handleidingen/Algemeen/Mogelijke_inzetten.md)
+        - Nieuws over updates [bekijken.](Handleidingen/Algemeen/Nieuws_bekijken.md)
+        - Overzicht van je inkomsten [bekijken.](Handleidingen/Algemeen/Inkomsten_bekijken.md)
     - AUR:
         - Aanmaken [AUR.](Handleidingen/AUR/Aanmaken_AUR.md)
         - AUR [delen.](Handleidingen/AUR/AUR_delen.md)
@@ -28,16 +40,22 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Een gemaakte AUR [bewerken.](Handleidingen/AUR/AUR_bewerken.md)
         - Een specifieke AUR [verwijderen.](Handleidingen/AUR/AUR_verwijderen.md)
         - Alle AUR [verwijderen.](Handleidingen/AUR/Alle_AUR_verwijderen.md)
+    - Gebouwen:
+        - Gebouw [bouwen.](Handleidingen/Gebouwen/Gebouw_bouwen.md)
+        - Gebouw verwijderen met geld [terug.](Handleidingen/Gebouwen/Gebouw_verwijderen_met_geld_terug.md)
+        - Personeel [werven.](Handleidingen/Gebouwen/Personeel_werven.md)
+        - Het aantal parkeerplaatsen [ophogen.](Handleidingen/Gebouwen/Uitbreiden_parkeerplaatsen.md)  
+        - Gebouw koppelen aan [meldkamer.](Handleidingen/Gebouwen/Gebouw_koppelen_aan_meldkamer.md) 
+        - Gebouw afbeelding [veranderen.](Handleidingen/Afbeeldingen/Gebouw_afbeelding)
+    - Instellingen
+        - Veranderen [design.](Handleidingen/Instellingen/Veranderen_design.md)   
+        - Inzetsnelheid [aanpassen.](Handleidingen/Instellingen/Inzetsnelheid_aanpassen.md)  
+        - Eigen inzetbereik [instellen](Handleidingen/Instellingen/Eigen_inzetbereik.md)
     - Meldingen:
         - Voertuigen [Alarmeren.](Handleidingen/Meldingen/Alarmeren.md)
         - Voertuigen dooralarmeren naar volgende [melding.](Handleidingen/Meldingen/Dooralarmeren.md)
         - Voertuig retour post [sturen.](Handleidingen/Meldingen/Voertuig_retour_post.md)
         - Voertuigen alarmeren met behulp van [AUR](Handleidingen/Meldingen/Alarmeren_met_AUR.md)
-    - Gebouwen:
-        - Gebouw [bouwen.](Handleidingen/Gebouwen/Gebouw_bouwen.md)
-        - Gebouw verwijderen met geld [terug.](Handleidingen/Gebouwen/Gebouw_verwijderen_met_geld_terug.md)
-        - Personeel [werven.](Handleidingen/Gebouwen/Personeel_werven.md)
-        - Het aantal parkeerplaatsen [ophogen.](Handleidingen/Gebouwen/Uitbreiden_parkeerplaatsen.md)       
     - Voertuigen:
         - Voertuigen [kopen.](Handleidingen/Voertuigen/Voertuig_kopen.md)
         - Voertuigen [hernoemen.](Handleidingen/Voertuigen/Voertuig_hernoemen.md)
