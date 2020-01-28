@@ -59,6 +59,10 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
     - Voertuigen:
         - Voertuigen [kopen.](Handleidingen/Voertuigen/Voertuig_kopen.md)
         - Voertuigen [hernoemen.](Handleidingen/Voertuigen/Voertuig_hernoemen.md)
+        - Personeel aan een voertuig [koppelen.](Handleidingen/Voertuigen/Personeel_koppelen)
+        - Uitrukvertraging [instellen.](Handleidingen/Voertuigen/Uitrukvertraging_instellen.md)
+        - Voertuigen verplaatsen naar andere [post.](Handleidingen/Voertuigen/Voertuig_verplaatsen.md)
+        - Voertuigen verwisselen van [post.](Handleidingen/Voertuigen/Voertuigen_wisselen.md)
     
 - Lijstjes
     - Algemeen
@@ -67,6 +71,7 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Betekenissen van de [statussen.](Lijstjes/Algemeen/Status_betekenissen.md)
         - Op welk tabblad zijn de voertuigen te vinden in de [voertuigenmarkt.](Lijstjes/Algemeen/Voertuigen_per_tabblad.md)
         - Voorwaarden voor het verplaastsen van [personeel.](Lijstjes/Algemeen/Voorwaarden_personeel_verplaatsen.md)
+        - In de game beschikbare [POI's.](Lijstjes/Algemeen/POI's.md)
     - Team
         - Acties die zichtbaar zijn in het [toezichtscherm.](Lijstjes/Team/Acties_in_toezichtscherm.md)
         - Benodigdheden [Teaminzetten.](Lijstjes/Team/Benodigdheden_Teaminzetten.md)

@@ -13,7 +13,8 @@
 - 1x Hoofdofficier van dienst brandweer
 - 8x Noodhulp
 - 1x Commandowagen of haakarmbak
-- Ambulances n.a.v. aantal patiënten 
+- Ambulances n.a.v. aantal patiënten (min 15, max 25)
+- OVD-G (i.v.m. meer dan 3 patiënten)
 
 [Inzet-59](https://www.meldkamerspel.com/einsaetze/59) Brand in opslagloods:
 - 16x Tankautospuit
@@ -45,8 +46,9 @@
 - 2x Hoofdofficier van dienst
 - 2x Commandowagen of haakarmbak
 - 12x Noodhulp
-- Ambulances n.a.v. aantal patiënten 
-- MMT 
+- Ambulances n.a.v. aantal patiënten (min 55, max 85)
+- MMT (25%)
+- OVD-G (i.v.m. meer dan 3 patiënten)
  
 [Inzet-346](https://www.meldkamerspel.com/einsaetze/346) Brand in opslagloods met gevaarlijke stoffen:
 - 24x Tankautospuit
