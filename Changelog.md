@@ -1,6 +1,7 @@
 Datum|Versie|wijzigingen
 -----------|-------|------------
-28-01-2020|1.1.9|Handleidingen: personeel koppelen, uitrukvertraging, voertuigen verplaatsen/verwisselen; Lijstjes: Update benodigdheden teaminzetten (aantal ambu, %-MMT + OVD-G)
+29-01-2020|1.1.10|Handleidingen Team: aanmaken, aanmelden, Donatie, Rechten, info in chat, Overzicht; Lijstjes: status betekenissen
+28-01-2020|1.1.9|Handleidingen: personeel koppelen, uitrukvertraging, voertuigen verplaatsen/verwisselen; Lijstjes: Update benodigdheden teaminzetten (aantal ambu, %-MMT + OVD-G), Toevoegen lijst POI's
 27-01-2020|1.1.8|Handleidingen: mogelijke inzetten. nieuws, POI plaatsen/verwijderen, gebouw afbeelding, gebouw koppelen aan meldkamer.
 27-01-2020|1.1.7|Lijstjes: Update teaminzetten/rangen van team.
 26-01-2020|1.1.6|Handleidingen: Afbeeldingsverzameling openbaarmaken/aanmaken/gebruiken/verwijderen;

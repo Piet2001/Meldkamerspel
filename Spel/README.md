@@ -28,8 +28,6 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Op de site [inloggen.](Handleidingen/Algemeen/Inloggen.md)
         - Adventskalender [openen.](Handleidingen/Algemeen/Adventskalender_openen.md)
         - Ophalen beloning rang [omhoog.](Handleidingen/Algemeen/Rang_beloning_ophalen.md)
-        - POI [aanmaken.](Handleidingen/Algemeen/POI_plaatsen.md)
-        - POI [verwijderen.](Handleidingen/Algemeen/POI_verwijderen.md)
         - Mogelijke inzetten [bekijken.](Handleidingen/Algemeen/Mogelijke_inzetten.md)
         - Nieuws over updates [bekijken.](Handleidingen/Algemeen/Nieuws_bekijken.md)
         - Overzicht van je inkomsten [bekijken.](Handleidingen/Algemeen/Inkomsten_bekijken.md)
@@ -56,6 +54,17 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Voertuigen dooralarmeren naar volgende [melding.](Handleidingen/Meldingen/Dooralarmeren.md)
         - Voertuig retour post [sturen.](Handleidingen/Meldingen/Voertuig_retour_post.md)
         - Voertuigen alarmeren met behulp van [AUR](Handleidingen/Meldingen/Alarmeren_met_AUR.md)
+    - POI:
+        - POI [aanmaken.](Handleidingen/POI/POI_plaatsen.md)
+        - POI [verwijderen.](Handleidingen/POI/POI_verwijderen.md)
+    - Team:
+        - Team [aanmaken.](Handleidingen/Team/Team_aanmaken.md)
+        - Teamoverzicht [bekijken.](Handleidingen/Team/Teamoverzicht_bekijken.md)
+        - Aanmelden voor een [team.](Handleidingen/Team/Aanmelden.md)
+        - Aanmelding [accepteren.](Handleidingen/Team/Aanmelding_accepteren.md)
+        - Rechten van leden [bewerken.](Handleidingen/Team/Rechten_bewerken.md)
+        - Teaminformatie in de chat [veranderen.](Handleidingen/Team/Team_info_chat.md)
+        - Donatie percentage [instellen.](Handleidingen/Team/Donatie.md)
     - Voertuigen:
         - Voertuigen [kopen.](Handleidingen/Voertuigen/Voertuig_kopen.md)
         - Voertuigen [hernoemen.](Handleidingen/Voertuigen/Voertuig_hernoemen.md)
@@ -72,6 +81,7 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Op welk tabblad zijn de voertuigen te vinden in de [voertuigenmarkt.](Lijstjes/Algemeen/Voertuigen_per_tabblad.md)
         - Voorwaarden voor het verplaastsen van [personeel.](Lijstjes/Algemeen/Voorwaarden_personeel_verplaatsen.md)
         - In de game beschikbare [POI's.](Lijstjes/Algemeen/POI's.md)
+        - Betekenissen van de [statussen.](Lijstjes/Algemeen/Statussen.md)
     - Team
         - Acties die zichtbaar zijn in het [toezichtscherm.](Lijstjes/Team/Acties_in_toezichtscherm.md)
         - Benodigdheden [Teaminzetten.](Lijstjes/Team/Benodigdheden_Teaminzetten.md)
