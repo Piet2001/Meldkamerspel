@@ -18,11 +18,11 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Ik krijg geen besteld vervoer [meldingen.](FAQ/Problemen/Geen_besteld_vervoer.md)
 
 - Handleidingen
-    - Afbeeldingen:
-        - Verzameling [aanmaken.](Handleidingen/Afbeeldingen/Verzameling_aanmaken.md)
-        - Eigen verzameling openbaar [maken.](Handleidingen/Afbeeldingen/Openbaar_maken.md)
-        - Verzameling [gebruiken.](Handleidingen/Afbeeldigen/Verzameling_gebruiken.md)
-        - Eigen verzameling [verwijderen.](Handleidingen/Afbeeldingen/Verzameling_verwijderen.md)        
+    - Afbeeldingsverzameling:
+        - Verzameling [aanmaken.](Handleidingen/Afbeeldingsverzameling/Verzameling_aanmaken.md)
+        - Eigen verzameling openbaar [maken.](Handleidingen/Afbeeldingsverzameling/Openbaar_maken.md)
+        - Verzameling [gebruiken.](Handleidingen/Afbeeldingsverzameling/Verzameling_gebruiken.md)
+        - Eigen verzameling [verwijderen.](Handleidingen/Afbeeldingsverzameling/Verzameling_verwijderen.md)    
     - Algemeen:
         - Account [aanmaken.](Handleidingen/Algemeen/Account_aanmaken.md)
         - Op de site [inloggen.](Handleidingen/Algemeen/Inloggen.md)
@@ -65,6 +65,8 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Rechten van leden [bewerken.](Handleidingen/Team/Rechten_bewerken.md)
         - Teaminformatie in de chat [veranderen.](Handleidingen/Team/Team_info_chat.md)
         - Donatie percentage [instellen.](Handleidingen/Team/Donatie.md)
+        - Grote team-inzet [aanmaken.](Handleidingen/Team/Team_inzet.md)
+        - Team-event [aanmaken.](Handleidingen/Team/Team_event.md)
     - Voertuigen:
         - Voertuigen [kopen.](Handleidingen/Voertuigen/Voertuig_kopen.md)
         - Voertuigen [hernoemen.](Handleidingen/Voertuigen/Voertuig_hernoemen.md)
