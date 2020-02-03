@@ -9,7 +9,8 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Hoe bereken ik het maximale aantal [meldingen.](FAQ/Algemeen/Maximaal_aantal_meldingen.md)
         - Wat is er voor een melding [nodig.](FAQ/Algemeen/Wat_heb_ik_nodig_voor_de_melding.md)
         - Wat is een [POI.](FAQ/Algemeen/Wat_is_een_POI.md)
-        - Waarvoor is een eigen [inzetbereik.](FAQ/Algemeen/Waarvoor_is_eigen_inzetbereik.md)      
+        - Waarvoor is een eigen [inzetbereik.](FAQ/Algemeen/Waarvoor_is_eigen_inzetbereik.md)  
+        - Wat is een [UGS.](FAQ/Algemeen/Wat_is_een_UGS.md)    
     - Problemen:
         - Mijn spel doet het niet [goed.](FAQ/Problemen/Mijn_spel_doet_het_niet_goed.md)
         - Mogelijk melding voor geen personeel [onterecht.](FAQ/Problemen/Foutmelding_geen_personeel_onterecht.md)
