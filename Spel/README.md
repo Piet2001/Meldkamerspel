@@ -54,6 +54,7 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Voertuigen dooralarmeren naar volgende [melding.](Handleidingen/Meldingen/Dooralarmeren.md)
         - Voertuig retour post [sturen.](Handleidingen/Meldingen/Voertuig_retour_post.md)
         - Voertuigen alarmeren met behulp van [AUR](Handleidingen/Meldingen/Alarmeren_met_AUR.md)
+        - Inzet vrijgeven in [team.](Handleidingen/Meldingen/Openzetten_voor_team.md)
     - POI:
         - POI [aanmaken.](Handleidingen/POI/POI_plaatsen.md)
         - POI [verwijderen.](Handleidingen/POI/POI_verwijderen.md)
