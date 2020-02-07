@@ -1,4 +1,4 @@
-Om personeel te koppelen aan je voertuigen doorloop je de volgende stappen.
+Om personeel te koppelen aan je voertuigen doorloop je de volgende stappen.<br/>
 
 1. Ga naar het gebouw van je betreffende voertuig.
 2. Klik op de naam van het voertuig waaraan je personneel wil toewijzen.
