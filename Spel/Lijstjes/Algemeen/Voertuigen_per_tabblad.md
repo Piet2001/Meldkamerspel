@@ -81,10 +81,10 @@ Politie, Opkomstbureau: <br/>
 Politie, Hoofdbureau:<br/>
 
 - OVD-P
-- ME Commandovoertuig (zichtbaar na uitbouwen MEuitbreiding op de post)
-- ME Flexbus (zichtbaar na uitbouwen MEuitbreiding op de post)
-- DA Hondengeleider (zichtbaar na uitbouwen Hondengeleideruitbreiding op de post)
-- DB Hondengeleider (zichtbaar na uitbouwen Hondengeleideruitbreiding op de post)
+- ME Commandovoertuig (zichtbaar na uitbouwen ME uitbreiding op de post)
+- ME Flexbus (zichtbaar na uitbouwen ME uitbreiding op de post)
+- DA Hondengeleider (zichtbaar na uitbouwen Hondengeleider uitbreiding op de post)
+- DB Hondengeleider (zichtbaar na uitbouwen Hondengeleider uitbreiding op de post)
 
 <br/><br/>
 Politiehelikopter standplaats:<br/>
