@@ -25,4 +25,4 @@ Binnen een team heb je verschillende rangen, met aanhangende mogelijkheden:
     - Gebouwen kopen voor het team van de team kas.
     - Kortingen voor teamleden beheren.
 - Docent:
-    - Opleidingen starten in de team scholen
+    - Opleidingen starten in de team scholen.
