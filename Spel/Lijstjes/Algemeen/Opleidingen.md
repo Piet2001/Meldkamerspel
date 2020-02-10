@@ -13,6 +13,7 @@ Politie Academie:
 - Officier van Dienst - Politie (7 dagen)
 - Mobile Eenheid (4 dagen)
 - Hondengeleider (7 dagen)
+- Operator AT (10 dagen)
 
 Univerditeit Faculteit Geneeskunde:
 - MMT-Bemanningslid (7 dagen)
