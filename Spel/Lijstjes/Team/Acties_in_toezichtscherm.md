@@ -1,5 +1,11 @@
 In het toezichtsscherm van een team vind je meldingen van de volgende acties:
-- Opleiding gestart.
-- Opleiding afgerond.
+- Team opleiding gestart.
+- Team opleiding afgerond.
+- Persoon team verlaten.
 - Persoon uit het team gekickt.
 - Persoon geaccepteerd in het team.
+- Event gestart.
+- Team inzet gestart.
+- Aanpassingen in rangen.
+- Teamgebouwen uitbreidingen gestart.
+- Teamgebouwen uitbreidingen afgerond.
