@@ -85,6 +85,9 @@ Politie, Hoofdbureau:<br/>
 - ME Flexbus (zichtbaar na uitbouwen ME uitbreiding op de post)
 - DA Hondengeleider (zichtbaar na uitbouwen Hondengeleider uitbreiding op de post)
 - DB Hondengeleider (zichtbaar na uitbouwen Hondengeleider uitbreiding op de post)
+- AT-C (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
+- AT-O (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
+- AT-M (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
 
 <br/><br/>
 Politiehelikopter standplaats:<br/>
