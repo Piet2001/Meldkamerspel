@@ -29,7 +29,7 @@ In het spel zitten de volgende POI's:
 - Park
 - Parkeergarage
 - Rangeerplacement
-- Restaurant **(momenteel nog geen meldingen beschikbaar op deze POI)**
+- Restaurant
 - Rivier 
 - School
 - Sloot
