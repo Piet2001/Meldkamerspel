@@ -53,4 +53,4 @@ In het spel zitten de volgende POI's:
 - Vliegveld (klein): Vliegtuig parkeerplaats
 - Winkelcentrum
 - Ziekenhuis
-- Zwembad **(momenteel nog geen meldingen beschikbaar op deze POI)**
+- Zwembad
