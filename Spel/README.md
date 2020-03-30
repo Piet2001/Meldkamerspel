@@ -80,6 +80,7 @@ In de spel map zijn verschillende vragen en handleidingen te vinden. Hieronder z
         - Voertuigen verplaatsen naar andere [post.](Handleidingen/Voertuigen/Voertuig_verplaatsen.md)
         - Voertuigen verwisselen van [post.](Handleidingen/Voertuigen/Voertuigen_wisselen.md)
         - Afbeelding toewijzen aan [voertuig.](Handleidingen/Voertuigen/Afbeelding_geven.md)
+        - Kleur selectievakje per voertuigtype [aanpassen.](Handleidingen/Voertuigen/Kleur_voertuigtype.md)
     
 - Lijstjes
     - Algemeen
