@@ -16,7 +16,7 @@ Griezelige meldingen|1|30|100
 Stevig vuurwerk|5|30|200
 Sinterklaasfeest gered|1|30|100
 Ho Ho Ho Merry Christmas|10|200|1.000
-Paashaas missies|10|200| 
+Paashaas missies|10|200|2000
 
 ## Eenmalige Awards
 
