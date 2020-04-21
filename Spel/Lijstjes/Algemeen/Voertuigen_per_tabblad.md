@@ -1,30 +1,40 @@
 Brandweer, kazerne:<br/>
 
 - Tankautospuiten:
-    - SIV
-    - TS 4
-    - TS 6/7
-    - TS 8/9
-    - TST 4
-    - TST 6/7
-    - TST 8/9
-    - TST-NBB 4
-    - TST-NBB 6/7
-    - TST-NBB 8/9
+    - Snelle Interventie voertuigen.
+        - SIV
+    - Tankautospuiten:
+        - TS 4
+        - TS 6/7
+        - TS 8/9
+    - Tankautospuiten Terreinvaardig
+       - TST 4
+       - TST 6/7
+       - TST 8/9
+    - Tankautospuiten Terreinvaardig Natuurbrandbestreiding:
+        - TST-NBB 4
+        - TST-NBB 6/7
+        - TST-NBB 8/9
 - Overige voertuigen
-    - TW
-    - SL
-    - AL
-    - HW
-    - HV
-    - DA-OVD
-    - DA-HOD
-    - CO
-    - DA-AGS
-    - AB
-    - PM-WVD
-    - DB-K
-    - DA
+    - Brandbestrijdingsvoertuigen:
+        - TW
+        - SL
+    - Redvoertuigen:
+        - AL
+        - HW
+    - Hulpverleningsvoertuigen:
+        - HV
+    - Voertuigen commandovoering:
+        - DA-OVD
+        - DA-HOD
+        - CO
+        - DA-AGS
+    - Overige voertuigen:
+        - AB
+        - PM-WVD
+        - DB-K
+        - DA
+        - DA-VL
 - Ambulance (zichtbaar na uitbouwen ambulanceuitbreiding op de post)
     - Ambulance
     - Zorgambulance
