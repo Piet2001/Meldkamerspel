@@ -7,6 +7,7 @@ Brandweer Academie:
 - Vliegtuigbrandbestrijding (7 dagen)
 - Airport Fire Officer / On Scene Commander (7 dagen)
 - Oppervlakteredder (7 dagen)
+- Voorlichter (5 dagen)
 
 Politie Academie:
 - Politiehelikopter (7 dagen)
