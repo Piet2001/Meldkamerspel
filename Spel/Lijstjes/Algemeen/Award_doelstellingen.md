@@ -22,7 +22,7 @@ Paashaas missies|10|200|2.000
 
 Award|Brons|Zilver|Goud
 -------|-------|-------|-------
-1 April 2016| | | 
+1 April 2016| | | Je hebt deelgenomen aan het event.
 1.000 Facebook likes| | |Je hebt deelgenomen aan het event.
 112 ON WHEELS| | |Aanwezig geweest bij 112 on wheels 2017.
 Landelijke Veiligheidsdag| | |Deelgenomen aan veiligheidsdag event 2019.
