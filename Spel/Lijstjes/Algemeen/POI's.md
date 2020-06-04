@@ -1,9 +1,9 @@
 In het spel zitten de volgende POI's:
 
 - Afvalverwerker
-- Asielzoekerscentrum **(momenteel nog geen meldingen beschikbaar op deze POI)**
+- Asielzoekerscentrum
 - Bankkantoor
-- Bedrijventerrein **(momenteel nog geen meldingen beschikbaar op deze POI)**
+- Bedrijventerrein
 - Boerderij
 - Bos
 - Bouwmarkt
@@ -17,6 +17,7 @@ In het spel zitten de volgende POI's:
 - Gevangenis
 - Haventerrein
 - Hotel
+- Huisartsenpraktijk
 - Industrieterrein
 - Kantoorgebouw
 - Kerkgebouw
@@ -32,10 +33,11 @@ In het spel zitten de volgende POI's:
 - Restaurant
 - Rivier 
 - School
+- Silo
 - Sloot
 - Snelweg oprit / afrit
 - Spoorwegovergang
-- Sporthal **(momenteel nog geen meldingen beschikbaar op deze POI)**
+- Sporthal
 - Stadion 
 - Station
 - Supermarkt
@@ -48,7 +50,7 @@ In het spel zitten de volgende POI's:
 - Vliegveld (groot): Platform / Gate
 - Vliegveld (groot): Start-/Landingsbaan
 - Vliegveld (groot): Terminal
-- Vliegveld (klein): Gebouw **(momenteel nog geen meldingen beschikbaar op deze POI)**
+- Vliegveld (klein): Gebouw
 - Vliegveld (klein): Start-/Landingsbaan
 - Vliegveld (klein): Vliegtuig parkeerplaats
 - Winkelcentrum
