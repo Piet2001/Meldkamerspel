@@ -9,3 +9,5 @@ In het toezichtsscherm van een team vind je meldingen van de volgende acties:
 - Aanpassingen in rangen.
 - Teamgebouwen uitbreidingen gestart.
 - Teamgebouwen uitbreidingen afgerond.
+- Chatban gegeven.
+- Chatban opgeheven.
