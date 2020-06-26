@@ -13,3 +13,5 @@ Om de OVD-G automatisch spraakaanvragen te laten beantwoorden doorloop je de vol
 
 Wanneer een OVD-G nu bij een incident is zal deze automatisch de spraakaanvragen beantwoorden.
 Let op deze instelling is aan het voertuig gekoppeld en zal dus voor ieder voertuig moeten worden uitgevoerd.
+
+Videolink: https://youtu.be/wocTyXY5TqA
