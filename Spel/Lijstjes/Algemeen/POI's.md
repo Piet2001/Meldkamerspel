@@ -38,6 +38,7 @@ In het spel zitten de volgende POI's:
 - Snelweg oprit / afrit
 - Spoorwegovergang
 - Sporthal
+- Sportveld
 - Stadion 
 - Station
 - Supermarkt
