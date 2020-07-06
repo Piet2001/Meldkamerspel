@@ -19,6 +19,7 @@ In het spel zitten de volgende POI's:
 - Hotel
 - Huisartsenpraktijk
 - Industrieterrein
+- Jachthaven
 - Kantoorgebouw
 - Kerkgebouw
 - Kerkstmarkt
