@@ -13,6 +13,7 @@ In het spel zitten de volgende POI's:
 - Café/Club
 - Camping
 - Centraal Station
+- Frietkraam
 - Garagebedrijf
 - Gevangenis
 - Haventerrein
