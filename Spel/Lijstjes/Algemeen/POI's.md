@@ -49,11 +49,12 @@ In het spel zitten de volgende POI's:
 - Tramhalte
 - Transformatorhuisje
 - Verzorgingshuis
+- Verzorgingsplaats (Snelweg)
 - Vliegveld (groot): Parkeergarage
 - Vliegveld (groot): Platform / Gate
 - Vliegveld (groot): Start-/Landingsbaan
 - Vliegveld (groot): Terminal
-- Vliegveld (klein): Gebouw
+- Vliegveld (klein): Hangaar
 - Vliegveld (klein): Start-/Landingsbaan
 - Vliegveld (klein): Vliegtuig parkeerplaats
 - Winkelcentrum
