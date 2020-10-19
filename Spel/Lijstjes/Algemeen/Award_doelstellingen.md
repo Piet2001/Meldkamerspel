@@ -18,7 +18,7 @@ Stevig vuurwerk|5|30|200
 Sinterklaasfeest gered|1|30|100
 Ho Ho Ho Merry Christmas|10|200|1.000
 Paashaas missies|10|200|2.000
-Pompoenenjager|10| |
+Pompoenenjager|10|200|
 
 ## Eenmalige Awards
 
