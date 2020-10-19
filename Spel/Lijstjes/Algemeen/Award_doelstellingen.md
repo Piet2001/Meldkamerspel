@@ -1,7 +1,8 @@
-# Doelstellingen voor alle awards in het spel.
+# Doelstellingen voor alle awards in het spel
+
 Zie je dingen die niet kloppen meld deze!
 
-## Doorlopende Awards:
+## Doorlopende Awards
 
 Award|Brons|Zilver|Goud
 -------|-------|-------|-------
@@ -17,6 +18,7 @@ Stevig vuurwerk|5|30|200
 Sinterklaasfeest gered|1|30|100
 Ho Ho Ho Merry Christmas|10|200|1.000
 Paashaas missies|10|200|2.000
+Pompoenenjager|10| |
 
 ## Eenmalige Awards
 
