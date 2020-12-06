@@ -1,4 +1,4 @@
-Brandweer, kazerne:<br/>
+Brandweer, kazerne:
 
 - Tankautospuiten:
     - Snelle Interventie voertuigen.
@@ -57,38 +57,35 @@ Brandweer, kazerne:<br/>
     - CT (8x8)
     - AFO/OSC
 
-<br/><br/>
-Ambulance, standplaats:<br/>
+Ambulance, standplaats:
 
 - Ambulance
 - Zorgambulance
 - OvD-G
 - RR
 
-<br/><br/>
-Ambulance, VWS-post:<br/>
+Ambulance, VWS-post:
 
 - Ambulance
 - Zorgambulance
 - OvD-G
 - RR
 
-<br/><br/>
-MMT Standplaats:<br/>
+MMT Standplaats:
 
 - Lifeliner
 - MMT-Auto
 - OvD-G
 
-<br/><br/>
-Politie, Opkomstbureau: <br/>
+Politie, Opkomstbureau:
 
 - DA Noodhulp
 - DB Noodhulp
 - DM Noodhulp
+- NH-O
+- DB-Bike
 
-<br/><br/>
-Politie, Hoofdbureau:<br/>
+Politie, Hoofdbureau:
 
 - OVD-P
 - ME Commandovoertuig (zichtbaar na uitbouwen ME uitbreiding op de post)
@@ -98,8 +95,8 @@ Politie, Hoofdbureau:<br/>
 - AT-C (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
 - AT-O (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
 - AT-M (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
+- DB-AV (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
 
-<br/><br/>
-Politiehelikopter standplaats:<br/>
+Politiehelikopter standplaats:
 
 - Politiehelokoper

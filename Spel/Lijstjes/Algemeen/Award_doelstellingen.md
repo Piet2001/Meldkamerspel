@@ -16,7 +16,7 @@ Paasei-Vinder|10|100|5.000
 Griezelige meldingen|1|30|100
 Stevig vuurwerk|5|30|200
 Sinterklaasfeest gered|1|50|150
-Ho Ho Ho Merry Christmas|10|200|1.000
+Kerstfeest gered!|10|200|1.000
 Paashaas missies|10|200|2.000
 Pompoenenjager|10|200|2.000
 
