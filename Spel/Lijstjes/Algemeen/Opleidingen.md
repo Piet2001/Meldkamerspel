@@ -21,7 +21,7 @@
 - Operator AT (10 dagen)
 - Biketeam (3 dagen)
 
-## Univerditeit Faculteit Geneeskunde
+## Univerciteit Faculteit Geneeskunde
 
 - MMT-Bemanningslid (7 dagen)
 - Officier van Dienst Geneeskunde (11 dagen)

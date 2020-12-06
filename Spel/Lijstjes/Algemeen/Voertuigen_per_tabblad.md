@@ -95,7 +95,7 @@ Politie, Hoofdbureau:
 - AT-C (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
 - AT-O (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
 - AT-M (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
-- DB-AV (zichtbaar na uitbouwen Arrestatieteam uitbreiding op de post)
+- DB-AV (zichtbaar na uitbouwen Arrestantenvervoer uitbreiding op de post)
 
 Politiehelikopter standplaats:
 
