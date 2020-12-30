@@ -2,7 +2,7 @@
 
 ## Brandweer Academie
 
-- Waarschuwings- en Verkenningsdienst (3 dagen)
+- Verkenningseenheid Brandweer (3 dagen)
 - Hoofd Officier van Dienst - Brandweer (7 dagen)
 - Adviseur Gevaarlijke Stoffen (6 dagen)
 - Brandweerchauffeur-zwaar (2 dagen)
