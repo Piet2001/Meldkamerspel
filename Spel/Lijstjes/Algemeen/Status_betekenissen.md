@@ -1,3 +1,5 @@
+# Status betekenissen
+
 Status|Betekenis|uitleg
 ------|------|------
 1|Uitgerukt|Voertuig is onderweg naar de melding

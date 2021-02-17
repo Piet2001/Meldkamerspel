@@ -1,4 +1,4 @@
-In het spel zitten de volgende POI's:
+# In het spel zitten de volgende POI's
 
 - Afvalverwerker
 - Asielzoekerscentrum
@@ -33,7 +33,7 @@ In het spel zitten de volgende POI's:
 - Parkeergarage
 - Rangeerplacement
 - Restaurant
-- Rivier 
+- Rivier
 - School
 - Silo
 - Sloot
@@ -41,7 +41,8 @@ In het spel zitten de volgende POI's:
 - Spoorwegovergang
 - Sporthal
 - Sportveld
-- Stadion 
+- Stadion
+- Stadscentrum
 - Station
 - Supermarkt
 - Tankstation
@@ -58,5 +59,6 @@ In het spel zitten de volgende POI's:
 - Vliegveld (klein): Start-/Landingsbaan
 - Vliegveld (klein): Vliegtuig parkeerplaats
 - Winkelcentrum
+- Zendmast
 - Ziekenhuis
 - Zwembad

@@ -1,3 +1,4 @@
+
 Brandweer, kazerne:
 
 - Tankautospuiten:
@@ -24,6 +25,7 @@ Brandweer, kazerne:
         - HW
     - Hulpverleningsvoertuigen:
         - HV
+        - TS-HV
     - Voertuigen commandovoering:
         - DA-OVD
         - DA-HOD
@@ -39,6 +41,7 @@ Brandweer, kazerne:
     - Ambulance
     - Zorgambulance
     - RR
+    - DM-RR
 - Haakarm (zichtbaar na uitbouwen haakarmbakuitbreiding op de post)
     - HA
     - ABH
@@ -46,6 +49,7 @@ Brandweer, kazerne:
     - DPH
     - WTH
     - HVH
+    - SLH
 - Waterongevallen (zichtbaar na uitbouwen waterongevallenuitbreiding op de post)
     - WO
     - WOA
@@ -63,6 +67,8 @@ Ambulance, standplaats:
 - Zorgambulance
 - OvD-G
 - RR
+- DA OVDG-RR
+- DM-RR
 
 Ambulance, VWS-post:
 
