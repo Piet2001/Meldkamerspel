@@ -10,4 +10,4 @@ LET OP: Dit mag alleen wanneer je zelf de rechten hebt van alle afbeeldingen die
 
 Wanneer je verzameling weer prive wil hebben doorloop je dezelfde stappen, alleen haal je nu het vinkje weg.
 
-Videolink: https://youtu.be/qZPGXkdNUmM
+Videolink: <https://youtu.be/qZPGXkdNUmM>
