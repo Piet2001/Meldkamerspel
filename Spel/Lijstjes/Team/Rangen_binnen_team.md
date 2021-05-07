@@ -1,3 +1,5 @@
+# Rangen binnen het team
+
 Binnen een team heb je verschillende rangen, met aanhangende mogelijkheden:
 
 - Admin:
@@ -14,13 +16,13 @@ Binnen een team heb je verschillende rangen, met aanhangende mogelijkheden:
     - Team events starten.
 - Co-Admin:
     - Spelers accepteren voor het team.
-    - Voertuigen met spraakaanvraag van offline spelers weg sturen. 
+    - Voertuigen met spraakaanvraag van offline spelers weg sturen.
     - Teaminzetten starten.
     - Team events starten.
 - Spraakaanvraag admin:
     - Voertuigen met spraakaanvraag van offline spelers weg sturen.
 - Toezichthouder:
-    - Toezichtscherm bekijken. Hierin komen meldingen van [acties.](Acties_in_toezichtscherm.md) 
+    - Toezichtscherm bekijken. Hierin komen meldingen van [acties.](Acties_in_toezichtscherm.md)
 - Penningmeester:
     - Gebouwen kopen voor het team van de team kas.
     - Kortingen voor teamleden beheren.
