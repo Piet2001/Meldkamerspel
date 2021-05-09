@@ -20,7 +20,7 @@ Zie je dingen die niet kloppen meld deze!
 | Paashaas missies       | 10    | 200    | 2.000   |
 | Pompoenenjager         | 10    | 200    | 2.000   |
 | Valentijnsdag          | 1     | 30     | 100     |
-| Moederdagmissie        | 5     | 100    |         |
+| Moederdagmissie        | 5     | 100    | 1000    |
 
 ## Eenmalige Awards
 
