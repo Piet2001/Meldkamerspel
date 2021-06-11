@@ -24,10 +24,11 @@ Zie je dingen die niet kloppen meld deze!
 
 ## Eenmalige Awards
 
-| Award                     | Brons | Zilver | Goud                                       |
-| ------------------------- | ----- | ------ | ------------------------------------------ |
-| 1 April 2016              |       |        | Je hebt deelgenomen aan het event.         |
-| 1.000 Facebook likes      |       |        | Je hebt deelgenomen aan het event.         |
-| 112 ON WHEELS             |       |        | Aanwezig geweest bij 112 on wheels 2017.   |
-| Landelijke Veiligheidsdag |       |        | Deelgenomen aan veiligheidsdag event 2019. |
-| 5 Jarig Jubileum!         | 5     | 15     | 50                                         |
+| Award                                       | Brons | Zilver | Goud                                       |
+| ------------------------------------------- | ----- | ------ | ------------------------------------------ |
+| 1 April 2016                                |       |        | Je hebt deelgenomen aan het event.         |
+| 1.000 Facebook likes                        |       |        | Je hebt deelgenomen aan het event.         |
+| 112 ON WHEELS                               |       |        | Aanwezig geweest bij 112 on wheels 2017.   |
+| Landelijke Veiligheidsdag                   |       |        | Deelgenomen aan veiligheidsdag event 2019. |
+| 5 Jarig Jubileum!                           | 5     | 15     | 50                                         |
+| Europees kampioenschap Voetbal 2021 - Award | 10    |        |                                            |
