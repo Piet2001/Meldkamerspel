@@ -21,6 +21,7 @@ Zie je dingen die niet kloppen meld deze!
 | Pompoenenjager         | 10    | 200    | 2.000   |
 | Valentijnsdag          | 1     | 30     | 100     |
 | Moederdagmissie        | 5     | 100    | 1000    |
+| Zomerevenement-award   | 10    | 400    | 2000    |
 
 ## Eenmalige Awards
 
