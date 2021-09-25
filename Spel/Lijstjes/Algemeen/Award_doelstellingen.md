@@ -22,6 +22,7 @@ Zie je dingen die niet kloppen meld deze!
 | Valentijnsdag          | 1     | 30     | 100     |
 | Moederdagmissie        | 5     | 100    | 1000    |
 | Zomerevenement-award   | 10    | 400    | 2000    |
+| Herfstevenement        | 10    | 100    | 1000    |
 
 ## Eenmalige Awards
 
