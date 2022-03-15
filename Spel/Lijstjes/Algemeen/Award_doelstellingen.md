@@ -23,6 +23,8 @@ Zie je dingen die niet kloppen meld deze!
 | Moederdagmissie        | 5     | 100    | 1000    |
 | Zomerevenement-award   | 10    | 400    | 2000    |
 | Herfstevenement        | 10    | 100    | 1000    |
+| Europese 112-dag       | 5     | 15     | 50      |
+| Europese 112-dag       | 5     | 15     | 50      |
 
 ## Eenmalige Awards
 
@@ -34,3 +36,4 @@ Zie je dingen die niet kloppen meld deze!
 | Landelijke Veiligheidsdag                   |       |        | Deelgenomen aan veiligheidsdag event 2019. |
 | 5 Jarig Jubileum!                           | 5     | 15     | 50                                         |
 | Europees kampioenschap Voetbal 2021 - Award | 10    | 50     | 200                                        |
+| 6 Jarig Jubileum!                           | 5     | 15     | 50                                         |
