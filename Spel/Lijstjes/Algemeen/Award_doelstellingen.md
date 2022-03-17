@@ -24,7 +24,7 @@ Zie je dingen die niet kloppen meld deze!
 | Zomerevenement-award   | 10    | 400    | 2000    |
 | Herfstevenement        | 10    | 100    | 1000    |
 | Europese 112-dag       | 5     | 15     | 50      |
-| Europese 112-dag       | 5     | 15     | 50      |
+| Carnaval               | 5     | 15     | 50      |
 
 ## Eenmalige Awards
 
