@@ -1,6 +1,6 @@
 # Doelstellingen voor alle awards in het spel
 
-Zie je dingen die niet kloppen meld deze!
+Vernieuwde overzicht is te vinden op [https://mks-dashboard.github.io/information/awards](https://mks-dashboard.github.io/information/awards)
 
 ## Doorlopende Awards
 
