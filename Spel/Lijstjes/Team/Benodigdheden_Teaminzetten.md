@@ -1,3 +1,5 @@
+Een vernieuwd en bijgewerkt overzicht kunt u vinden op [https://mks-dashboard.github.io/information/alliancemissions](https://mks-dashboard.github.io/information/alliancemissions)
+
 [Inzet-41](https://www.meldkamerspel.com/einsaetze/41) Brand in kantoorpand:
 
 - 8x Tankautospuit
